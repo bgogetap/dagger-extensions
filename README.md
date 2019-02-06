@@ -4,7 +4,7 @@ Dagger Extensions
 A collection of libraries used to extend the utility of Dagger 2 in Android.
 
 Scoping
-_______
+---
 Allow Dagger Components to be retained for the full scope of an Activity/Fragment.
 
 If the user is on a screen and it gets recreated due to a configuration change, as far as they are 
@@ -20,7 +20,7 @@ require a few files. For now you can look at the sample app for example usage.
 
 
 Testing
-_______
+---
 All modules tests will be executed by running `python3 run_tests.py`
 
 
